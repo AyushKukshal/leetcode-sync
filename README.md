@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AyushKukshal/leetcode-sync/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/AyushKukshal/leetcode-sync/tree/master/0169-majority-element) |
 | [1470-shuffle-the-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/1470-shuffle-the-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/AyushKukshal/leetcode-sync/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
