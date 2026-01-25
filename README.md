@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AyushKukshal/leetcode-sync/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/AyushKukshal/leetcode-sync/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/AyushKukshal/leetcode-sync/tree/master/0268-missing-number) |
 | [1470-shuffle-the-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/1470-shuffle-the-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AyushKukshal/leetcode-sync/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/1929-concatenation-of-array) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AyushKukshal/leetcode-sync/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/AyushKukshal/leetcode-sync/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AyushKukshal/leetcode-sync/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/AyushKukshal/leetcode-sync/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -45,8 +48,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/AyushKukshal/leetcode-sync/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/AyushKukshal/leetcode-sync/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/AyushKukshal/leetcode-sync/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/AyushKukshal/leetcode-sync/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
