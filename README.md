@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AyushKukshal/leetcode-sync/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/AyushKukshal/leetcode-sync/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AyushKukshal/leetcode-sync/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/AyushKukshal/leetcode-sync/tree/master/0704-binary-search) |
 | [1470-shuffle-the-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/1470-shuffle-the-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AyushKukshal/leetcode-sync/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/AyushKukshal/leetcode-sync/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/AyushKukshal/leetcode-sync/tree/master/0704-binary-search) |
 ## Matrix
 |  |
