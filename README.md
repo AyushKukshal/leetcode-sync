@@ -124,4 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/AyushKukshal/leetcode-sync/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/AyushKukshal/leetcode-sync/tree/master/0047-permutations-ii) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/AyushKukshal/leetcode-sync/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/AyushKukshal/leetcode-sync/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
