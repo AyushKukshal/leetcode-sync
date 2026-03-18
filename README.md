@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AyushKukshal/leetcode-sync/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/AyushKukshal/leetcode-sync/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AyushKukshal/leetcode-sync/tree/master/0268-missing-number) |
 ## Binary Search
@@ -132,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/AyushKukshal/leetcode-sync/tree/master/1021-remove-outermost-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/AyushKukshal/leetcode-sync/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
