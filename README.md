@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AyushKukshal/leetcode-sync/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/AyushKukshal/leetcode-sync/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/AyushKukshal/leetcode-sync/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/AyushKukshal/leetcode-sync/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/AyushKukshal/leetcode-sync/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AyushKukshal/leetcode-sync/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AyushKukshal/leetcode-sync/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/AyushKukshal/leetcode-sync/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/AyushKukshal/leetcode-sync/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/AyushKukshal/leetcode-sync/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AyushKukshal/leetcode-sync/tree/master/0268-missing-number) |
 ## Binary Search
