@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AyushKukshal/leetcode-sync/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/AyushKukshal/leetcode-sync/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/AyushKukshal/leetcode-sync/tree/master/0560-subarray-sum-equals-k) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/AyushKukshal/leetcode-sync/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/AyushKukshal/leetcode-sync/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/AyushKukshal/leetcode-sync/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/AyushKukshal/leetcode-sync/tree/master/1021-remove-outermost-parentheses) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/AyushKukshal/leetcode-sync/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/AyushKukshal/leetcode-sync/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
