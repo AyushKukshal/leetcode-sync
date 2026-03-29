@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AyushKukshal/leetcode-sync/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/AyushKukshal/leetcode-sync/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AyushKukshal/leetcode-sync/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AyushKukshal/leetcode-sync/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AyushKukshal/leetcode-sync/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/AyushKukshal/leetcode-sync/tree/master/0412-fizz-buzz) |
 | [1903-largest-odd-number-in-string](https://github.com/AyushKukshal/leetcode-sync/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/AyushKukshal/leetcode-sync/tree/master/1922-count-good-numbers) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AyushKukshal/leetcode-sync/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AyushKukshal/leetcode-sync/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/AyushKukshal/leetcode-sync/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/AyushKukshal/leetcode-sync/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/AyushKukshal/leetcode-sync/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/AyushKukshal/leetcode-sync/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/AyushKukshal/leetcode-sync/tree/master/1021-remove-outermost-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AyushKukshal/leetcode-sync/tree/master/1832-check-if-the-sentence-is-pangram) |
