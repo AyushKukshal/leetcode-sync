@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/AyushKukshal/leetcode-sync/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/AyushKukshal/leetcode-sync/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/AyushKukshal/leetcode-sync/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AyushKukshal/leetcode-sync/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AyushKukshal/leetcode-sync/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -167,12 +168,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/AyushKukshal/leetcode-sync/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/AyushKukshal/leetcode-sync/tree/master/1021-remove-outermost-parentheses) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/AyushKukshal/leetcode-sync/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/AyushKukshal/leetcode-sync/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/AyushKukshal/leetcode-sync/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/AyushKukshal/leetcode-sync/tree/master/1922-count-good-numbers) |
 ## Greedy
 |  |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AyushKukshal/leetcode-sync/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/AyushKukshal/leetcode-sync/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/AyushKukshal/leetcode-sync/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AyushKukshal/leetcode-sync/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AyushKukshal/leetcode-sync/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
