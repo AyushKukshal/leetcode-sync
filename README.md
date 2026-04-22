@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AyushKukshal/leetcode-sync/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/AyushKukshal/leetcode-sync/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/AyushKukshal/leetcode-sync/tree/master/1922-count-good-numbers) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/AyushKukshal/leetcode-sync/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AyushKukshal/leetcode-sync/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Binary Search
