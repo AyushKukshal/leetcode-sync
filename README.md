@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AyushKukshal/leetcode-sync/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/AyushKukshal/leetcode-sync/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/AyushKukshal/leetcode-sync/tree/master/0412-fizz-buzz) |
+| [0709-to-lower-case](https://github.com/AyushKukshal/leetcode-sync/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/AyushKukshal/leetcode-sync/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/AyushKukshal/leetcode-sync/tree/master/1021-remove-outermost-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AyushKukshal/leetcode-sync/tree/master/1832-check-if-the-sentence-is-pangram) |
