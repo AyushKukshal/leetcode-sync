@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AyushKukshal/leetcode-sync/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/AyushKukshal/leetcode-sync/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/AyushKukshal/leetcode-sync/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/AyushKukshal/leetcode-sync/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/AyushKukshal/leetcode-sync/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/AyushKukshal/leetcode-sync/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/0189-rotate-array) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AyushKukshal/leetcode-sync/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/AyushKukshal/leetcode-sync/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/AyushKukshal/leetcode-sync/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/AyushKukshal/leetcode-sync/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AyushKukshal/leetcode-sync/tree/master/0234-palindrome-linked-list) |
