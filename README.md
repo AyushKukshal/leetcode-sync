@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AyushKukshal/leetcode-sync/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/2553-separate-the-digits-in-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/AyushKukshal/leetcode-sync/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/AyushKukshal/leetcode-sync/tree/master/2942-find-words-containing-character) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AyushKukshal/leetcode-sync/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/AyushKukshal/leetcode-sync/tree/master/0657-robot-return-to-origin) |
 | [1929-concatenation-of-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AyushKukshal/leetcode-sync/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2553-separate-the-digits-in-an-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/2553-separate-the-digits-in-an-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/AyushKukshal/leetcode-sync/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Bit Manipulation
 |  |
