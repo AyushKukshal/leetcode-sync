@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/AyushKukshal/leetcode-sync/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/AyushKukshal/leetcode-sync/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/AyushKukshal/leetcode-sync/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AyushKukshal/leetcode-sync/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AyushKukshal/leetcode-sync/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/AyushKukshal/leetcode-sync/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/AyushKukshal/leetcode-sync/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AyushKukshal/leetcode-sync/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/AyushKukshal/leetcode-sync/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AyushKukshal/leetcode-sync/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/AyushKukshal/leetcode-sync/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/AyushKukshal/leetcode-sync/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/AyushKukshal/leetcode-sync/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/AyushKukshal/leetcode-sync/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/AyushKukshal/leetcode-sync/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/AyushKukshal/leetcode-sync/tree/master/1922-count-good-numbers) |
 ## Greedy
