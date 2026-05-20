@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/AyushKukshal/leetcode-sync/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/AyushKukshal/leetcode-sync/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AyushKukshal/leetcode-sync/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/AyushKukshal/leetcode-sync/tree/master/0342-power-of-four) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/AyushKukshal/leetcode-sync/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Math
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/AyushKukshal/leetcode-sync/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AyushKukshal/leetcode-sync/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/AyushKukshal/leetcode-sync/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/AyushKukshal/leetcode-sync/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AyushKukshal/leetcode-sync/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/AyushKukshal/leetcode-sync/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/AyushKukshal/leetcode-sync/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/AyushKukshal/leetcode-sync/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/AyushKukshal/leetcode-sync/tree/master/0342-power-of-four) |
 | [1922-count-good-numbers](https://github.com/AyushKukshal/leetcode-sync/tree/master/1922-count-good-numbers) |
 ## Greedy
 |  |
