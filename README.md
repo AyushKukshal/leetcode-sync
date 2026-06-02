@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AyushKukshal/leetcode-sync/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/AyushKukshal/leetcode-sync/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/AyushKukshal/leetcode-sync/tree/master/0875-koko-eating-bananas) |
+| [0896-monotonic-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/0896-monotonic-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AyushKukshal/leetcode-sync/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AyushKukshal/leetcode-sync/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1470-shuffle-the-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/1470-shuffle-the-array) |
