@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/2553-separate-the-digits-in-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/AyushKukshal/leetcode-sync/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/AyushKukshal/leetcode-sync/tree/master/2942-find-words-containing-character) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/AyushKukshal/leetcode-sync/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AyushKukshal/leetcode-sync/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/AyushKukshal/leetcode-sync/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Two Pointers
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/AyushKukshal/leetcode-sync/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/AyushKukshal/leetcode-sync/tree/master/0560-subarray-sum-equals-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AyushKukshal/leetcode-sync/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/AyushKukshal/leetcode-sync/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
