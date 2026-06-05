@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/1929-concatenation-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AyushKukshal/leetcode-sync/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2418-sort-the-people](https://github.com/AyushKukshal/leetcode-sync/tree/master/2418-sort-the-people) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/2553-separate-the-digits-in-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/AyushKukshal/leetcode-sync/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/AyushKukshal/leetcode-sync/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/AyushKukshal/leetcode-sync/tree/master/0560-subarray-sum-equals-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AyushKukshal/leetcode-sync/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2418-sort-the-people](https://github.com/AyushKukshal/leetcode-sync/tree/master/2418-sort-the-people) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/AyushKukshal/leetcode-sync/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Divide and Conquer
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AyushKukshal/leetcode-sync/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/AyushKukshal/leetcode-sync/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AyushKukshal/leetcode-sync/tree/master/0268-missing-number) |
+| [2418-sort-the-people](https://github.com/AyushKukshal/leetcode-sync/tree/master/2418-sort-the-people) |
 ## Counting
 |  |
 | ------- |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AyushKukshal/leetcode-sync/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/AyushKukshal/leetcode-sync/tree/master/1903-largest-odd-number-in-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2418-sort-the-people](https://github.com/AyushKukshal/leetcode-sync/tree/master/2418-sort-the-people) |
 | [2942-find-words-containing-character](https://github.com/AyushKukshal/leetcode-sync/tree/master/2942-find-words-containing-character) |
 ## Stack
 |  |
