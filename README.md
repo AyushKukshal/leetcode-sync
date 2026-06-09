@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AyushKukshal/leetcode-sync/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AyushKukshal/leetcode-sync/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/AyushKukshal/leetcode-sync/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/AyushKukshal/leetcode-sync/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AyushKukshal/leetcode-sync/tree/master/0560-subarray-sum-equals-k) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AyushKukshal/leetcode-sync/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/AyushKukshal/leetcode-sync/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AyushKukshal/leetcode-sync/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/AyushKukshal/leetcode-sync/tree/master/0414-third-maximum-number) |
 | [2418-sort-the-people](https://github.com/AyushKukshal/leetcode-sync/tree/master/2418-sort-the-people) |
 ## Counting
 |  |
