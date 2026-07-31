@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/AyushKukshal/leetcode-sync/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AyushKukshal/leetcode-sync/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/AyushKukshal/leetcode-sync/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/AyushKukshal/leetcode-sync/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Two Pointers
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AyushKukshal/leetcode-sync/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/AyushKukshal/leetcode-sync/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AyushKukshal/leetcode-sync/tree/master/0073-set-matrix-zeroes) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/AyushKukshal/leetcode-sync/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -271,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/AyushKukshal/leetcode-sync/tree/master/0148-sort-list) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/AyushKukshal/leetcode-sync/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
