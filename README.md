@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/AyushKukshal/leetcode-sync/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/AyushKukshal/leetcode-sync/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/0896-monotonic-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AyushKukshal/leetcode-sync/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AyushKukshal/leetcode-sync/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1470-shuffle-the-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/1470-shuffle-the-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/AyushKukshal/leetcode-sync/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/AyushKukshal/leetcode-sync/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AyushKukshal/leetcode-sync/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AyushKukshal/leetcode-sync/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AyushKukshal/leetcode-sync/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AyushKukshal/leetcode-sync/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AyushKukshal/leetcode-sync/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/AyushKukshal/leetcode-sync/tree/master/0414-third-maximum-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/0977-squares-of-a-sorted-array) |
 | [2418-sort-the-people](https://github.com/AyushKukshal/leetcode-sync/tree/master/2418-sort-the-people) |
 | [3024-type-of-triangle](https://github.com/AyushKukshal/leetcode-sync/tree/master/3024-type-of-triangle) |
 | [3536-maximum-product-of-two-digits](https://github.com/AyushKukshal/leetcode-sync/tree/master/3536-maximum-product-of-two-digits) |
