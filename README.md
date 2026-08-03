@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AyushKukshal/leetcode-sync/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/AyushKukshal/leetcode-sync/tree/master/0704-binary-search) |
+| [0845-longest-mountain-in-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/0845-longest-mountain-in-array) |
 | [0875-koko-eating-bananas](https://github.com/AyushKukshal/leetcode-sync/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/0977-squares-of-a-sorted-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AyushKukshal/leetcode-sync/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/AyushKukshal/leetcode-sync/tree/master/0234-palindrome-linked-list) |
+| [0845-longest-mountain-in-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/AyushKukshal/leetcode-sync/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AyushKukshal/leetcode-sync/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AyushKukshal/leetcode-sync/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/AyushKukshal/leetcode-sync/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AyushKukshal/leetcode-sync/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0845-longest-mountain-in-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/0845-longest-mountain-in-array) |
 ## Simulation
 |  |
 | ------- |
@@ -282,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/AyushKukshal/leetcode-sync/tree/master/3898-find-the-degree-of-each-vertex) |
+## Enumeration
+|  |
+| ------- |
+| [0845-longest-mountain-in-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/0845-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
