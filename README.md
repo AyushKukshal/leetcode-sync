@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/AyushKukshal/leetcode-sync/tree/master/2652-sum-multiples) |
 | [3024-type-of-triangle](https://github.com/AyushKukshal/leetcode-sync/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AyushKukshal/leetcode-sync/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/AyushKukshal/leetcode-sync/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/AyushKukshal/leetcode-sync/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
@@ -292,4 +293,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/0845-longest-mountain-in-array) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/AyushKukshal/leetcode-sync/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
