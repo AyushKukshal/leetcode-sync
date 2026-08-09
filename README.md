@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AyushKukshal/leetcode-sync/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2418-sort-the-people](https://github.com/AyushKukshal/leetcode-sync/tree/master/2418-sort-the-people) |
 | [2942-find-words-containing-character](https://github.com/AyushKukshal/leetcode-sync/tree/master/2942-find-words-containing-character) |
+| [3019-number-of-changing-keys](https://github.com/AyushKukshal/leetcode-sync/tree/master/3019-number-of-changing-keys) |
 ## Stack
 |  |
 | ------- |
