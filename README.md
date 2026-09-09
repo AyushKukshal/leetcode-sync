@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/AyushKukshal/leetcode-sync/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AyushKukshal/leetcode-sync/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/AyushKukshal/leetcode-sync/tree/master/3536-maximum-product-of-two-digits) |
+| [3871-count-commas-in-range-ii](https://github.com/AyushKukshal/leetcode-sync/tree/master/3871-count-commas-in-range-ii) |
 ## Binary Search
 |  |
 | ------- |
